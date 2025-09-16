@@ -1,7 +1,5 @@
 # 11401_CS203A
 ## Course Info
-## Course Information
-
 - **Course Title:** Data Structures  
 - **Course Code:** CS203A  
 - **Target Audience:** Undergraduate Students  
